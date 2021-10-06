@@ -1,1 +1,7 @@
 this is not going to be included to the the push
+
+
+this is gonna be retrieve using stash
+stash is going to save this temporarily
+after stashing this branch, we are going to go other branch and make changes there
+then go back to this branch with this in here still
